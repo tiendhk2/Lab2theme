@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="tv1">
+        <item name="android:textColor">#ff0000</item>
+
+    </style>
+
+    <style name="tv2">
+        <item name="android:textColor">#4CAF50</item>
+    </style>
+
+    <style name="btn1">
+        <item name="backgroundTint">#22AF7E</item>
+        <item name="android:textColor">#B3005C</item>
+    </style>
+
+    <style name="btn2">
+        <item name="backgroundTint">#CF8820</item>
+        <item name="android:textColor">#00E2FF</item>
+    </style>
+
+</resources>
